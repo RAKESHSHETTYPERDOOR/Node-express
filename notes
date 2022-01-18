@@ -1,0 +1,5 @@
+//SHOW LOGS
+//LOGIT
+GET '/api/tasks'
+//LOGIT
+GET '/api/tasks/:id'
